@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Simple Dalamud Plugin designed to help manage FFXIV Venues.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/belibogi/FFXIVPlugins",
+	"RepoUrl": "https://github.com/belibogi/ffxiv-plugin-dev",
     "Tags": [],
     "CategoryTags": [],
     "DalamudApiLevel": 12,
