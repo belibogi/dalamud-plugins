@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "VenueManager",
+    "Author": "belibogi",
+    "InternalName": "VenueManager",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Simple Dalamud Plugin designed to help manage FFXIV Venues.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/belibogi/FFXIVPlugins",
+    "Tags": [],
+    "CategoryTags": [],
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
+    "DownloadLinkUpdate": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
+    "DownloadLinkTesting": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1746230400
+  }
+]
