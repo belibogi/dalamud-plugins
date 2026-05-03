@@ -2,7 +2,7 @@
   {
     "Name": "VenueManager",
     "Author": "belibogi",
-    "InternalName": "VenueManager",
+    "InternalName": "VenueManagerBBB",
     "AssemblyVersion": "3.0.3",
     "Description": "Simple Dalamud Plugin designed to help manage FFXIV Venues.",
     "ApplicableVersion": "any",
