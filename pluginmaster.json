@@ -9,7 +9,7 @@
 	"RepoUrl": "https://github.com/belibogi/ffxiv-plugin-dev",
     "Tags": [],
     "CategoryTags": [],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
     "DownloadLinkUpdate": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
     "DownloadLinkTesting": "https://belibogi.github.io/dalamud-plugins/VenueManager/latest.zip",
